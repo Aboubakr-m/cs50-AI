@@ -10,7 +10,7 @@ Projects for [Harvard's CS50 Introduction to Artificial Intelligence with Python
 | 1    | Knowledge        | Minesweeper | Play Minesweeper                                                   | `$ python runner.py`                                                  | 
 | 2    | Uncertainty      | PageRank       | Rank web pages by importance                                       | `$ python pagerank.py corpus0`                                        | 
 | 2    | Uncertainty      | Heredity       | Assess likelihood a person will have a particular genetic trait    | `$ python heredity.py data/family0.csv`                               | 
-| 3    | Optimisation     | Crossword     | Generate crossword puzzles                                         | `$ python generate.py data/structure1.txt data/words1.txt output.png` | 
+| 3    | Optimization     | Crossword     | Generate crossword puzzles                                         | `$ python generate.py data/structure1.txt data/words1.txt output.png` | 
 | 4    | Learning         | Shopping       | Predict whether online shopping customers will complete a purchase | `$ python shopping.py shopping.csv`                                   | 
 | 4    | Learning         | Nim                 | AI that teaches itself to play Nim through reinforecement learning | `$ python play.py`                                                    | 
 | 5    | Neural Networks  | Traffic         | Neural net to identify which traffic sign appears in a photograph  | `$ python traffic.py gtsrb`                                           | 
